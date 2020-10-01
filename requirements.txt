@@ -1,0 +1,4 @@
+discord
+datetime
+gspread
+oauth2client
